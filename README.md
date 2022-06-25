@@ -37,7 +37,7 @@ $ npm start
 ### Heroku
 You can host this bot to make it stay online on Heroku.
 
-<a href="https://heroku.com/deploy?template=https://github.com/Clytage/rawon"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/betsbest/BetsMusicBOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
 
 ### Glitch
 You can use Glitch too for this project, featured with its code editor.
@@ -50,15 +50,7 @@ You can use Glitch too for this project, featured with its code editor.
 6. After specifying `.env`, open **Tools** > **Terminal**
 7. Type `refresh`, and track the process from **Logs**
 
-<a href="https://glitch.com/edit/#!/import/github/Clytage/rawon"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
-
-### Railway
-Railway provide $5 each month for you to use in free plan, it will stay online 24/7 as long as your usage does not exceed $5.
-
-**IMPORTANT:** Read [Disclaimers](./DISCLAIMERS.md) before deploying to Railway.
-
-<a href="https://railway.app/new/template/PVZDzd?referralCode=TiaraR"><img src="https://railway.app/button.svg" alt="Deploy on Railway"
- /></a>
+<a href="https://glitch.com/edit/#!/import/github.com/betsbest/BetsMusicBOT)"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
 
 ## Project Contributors
 
